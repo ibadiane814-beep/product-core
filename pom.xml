@@ -11,7 +11,7 @@
 
     <groupId>sn.isi.l3gl.core</groupId>
     <artifactId>product-core</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.2.0-SNAPSHOT</version>
     <name>product-core</name>
     <description>Module metier - Product Core</description>
 
